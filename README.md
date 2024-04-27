@@ -1,2 +1,2 @@
 # PDI
-Processamento de Imagem
+Practicing image process using Java.
